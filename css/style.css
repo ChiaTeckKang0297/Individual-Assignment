@@ -625,6 +625,42 @@ button {
      margin-top: -25px;
 }
 
+.ContactUs {
+     background-color: rgb(255, 255, 255);
+     color: black;
+     padding: 40px;
+     text-align: center;
+     position: center;
+     }
+     
+.ContactUs input {
+     display: block;
+     margin: 10px auto;
+     text-align: center;
+     background: none;
+     padding: 12px;
+     font-size: 15px;
+     border-radius: 22px;
+     outline: none;
+     color: rgb(0, 0, 0);
+}
+
+.ContactUs input[type='text'], .ContactUs input[type='contact'], .ContactUs input[type='message'] {
+     border: 2px solid rgb(131, 111, 0)  
+     width: 220px;   
+}
+
+.ContactUs input[type='submit'] {
+     width: 150px;
+     border: 2px solid #0066ff;
+     cursor: pointer;
+}
+
+.ContactUs input[type='submit']:hover {
+     background-color: #0066ff;
+     transition: 0.5s;
+}
+
 /** footer **/
 
 .footer {
