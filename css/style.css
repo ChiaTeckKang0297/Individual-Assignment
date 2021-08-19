@@ -427,6 +427,7 @@ button {
      padding: 0px 20px 0px 10px;
 }
 
+
 .about_img figure {
      margin: 0;
 }
@@ -438,6 +439,10 @@ button {
 
 /** end about section **/
 
+.content1about {
+     background-color: #fff;
+
+}
 
 /** our section **/
 
@@ -615,6 +620,10 @@ button {
 
 /** end testimonial section **/
 
+.br {
+     margin-left: 20px;
+     margin-top: -25px;
+}
 
 /** footer **/
 
