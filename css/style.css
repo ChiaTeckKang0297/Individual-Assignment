@@ -131,11 +131,14 @@ button:focus {
 }
 
 ul,
-li,
-ol {
+li {
      margin: 0px;
      padding: 0px;
      list-style: none;
+}
+
+ol {
+     margin: auto;
 }
 
 p {
