@@ -661,6 +661,10 @@ button {
      transition: 0.5s;
 }
 
+.giphy {
+     padding: center;
+}
+
 /** footer **/
 
 .footer {
