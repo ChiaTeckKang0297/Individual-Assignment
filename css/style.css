@@ -625,6 +625,7 @@ button {
      margin-top: -25px;
 }
 
+
 .ContactUs {
      background-color: rgb(255, 255, 255);
      color: black;
@@ -659,10 +660,6 @@ button {
 .ContactUs input[type='submit']:hover {
      background-color: #0066ff;
      transition: 0.5s;
-}
-
-.giphy {
-     padding: center;
 }
 
 /** footer **/
